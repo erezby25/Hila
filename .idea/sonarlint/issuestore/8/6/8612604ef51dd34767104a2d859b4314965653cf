@@ -1,0 +1,33 @@
+
+j	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áşì¹8’Ì‘‘Ö.
+g
+java:S1192K"JDefine a constant instead of duplicating this literal " isPrime=" 4 times.(Û¸8’×ÎÖ.
+]	java:S125B"<This block of commented-out lines of code should be removed.(Á¾ÂÎøÿÿÿÿ8Ğ§ÃÖ.
+q	java:S116"PRename this field "rb_f1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Æ¾¶üÿÿÿÿ8‚äş­Ì.
+q	java:S116"PRename this field "rb_f3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÔÒ…ÿÿÿÿÿ8¹ş­Ì.
+D
+java:S1604"(Make this anonymous inner class a lambda(–ç»48˜İš®Ì.
+}
+java:S1192K"`Define a constant instead of duplicating this literal " Time to execute the function: " 4 times.(Û¸8’×ÎÖ.
+]	java:S125\"<This block of commented-out lines of code should be removed.(Á¾ÂÎøÿÿÿÿ8’ÉÈÖ.
+J	java:S108y")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8’×ÎÖ.
+]	java:S125x"<This block of commented-out lines of code should be removed.(Á¾ÂÎøÿÿÿÿ8’×ÎÖ.
+u
+java:S1192K"XDefine a constant instead of duplicating this literal " ms. num of iterations=" 4 times.(Û¸8ÈòíÖ.
+j	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ÇÉõ8»ç›‘Ö.
+^	java:S125•"<This block of commented-out lines of code should be removed.(Á¾ÂÎøÿÿÿÿ8ıÃ‘Ö.
+l	java:S116"PRename this field "rb_f4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¸¦8‘­•‘Ö.
+0
+java:S1220""Move this file to a named package.
+J	java:S108]")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8’ÉÈÖ.
+J	java:S108E")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8íó¡Ö.
+O
+java:S1068"-Remove this unused "lbMessage" private field.(‰Íô‹úÿÿÿÿ8èûÎ®Ì.
+q	java:S116"PRename this field "rb_f2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùå£õÿÿÿÿÿ8˜Áş­Ì.
+p	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¡úºüÿÿÿÿ8ıÃ‘Ö.
+i	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¦˜d8ŒÒ‘Ö.
+K	java:S108–")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8ıÃ‘Ö.
+e
+java:S1192K"HDefine a constant instead of duplicating this literal "Number " 4 times.(Û¸8’×ÎÖ.
+g
+java:S3252¤"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8‡³ß®Ì.
